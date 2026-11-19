@@ -1,5 +1,6 @@
 <img width="736" height="414" alt="IMG_8808" src="https://github.com/user-attachments/assets/680240c7-e481-4e14-a667-bdf2ec597cea" />
 
+--- 
 
 **about me**
 
