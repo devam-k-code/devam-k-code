@@ -1,16 +1,13 @@
-## Hi there 👋
+# about me
+14-year-old learning expanding my coding skills. i am interested in finance, quantitative trading and astronomy.
 
-<!--
-**devam-k-code/devam-k-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**core skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://cdn.simpleicons.org/python/white" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swift/white" height="40" alt="Swift" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c/white" height="40" alt="C" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/white" height="40" alt="SQL" />
+</p>
