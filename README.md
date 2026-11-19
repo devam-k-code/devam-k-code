@@ -7,7 +7,11 @@
 skills. i am interested in finance, quantitative trading and astronomy.
 
 ---
+**currently working on**
 
+paper trading bot
+
+---
 **core skills**
 
 <p>
