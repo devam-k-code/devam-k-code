@@ -26,7 +26,3 @@ paper trading bot
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devam-k-code&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&height=400&days=15&custom_title=dev’s%20contribution%20graph" width="100%" alt="contribution graph" />
-
----
-
-<img src="metrics.plugin.languages.svg" width="100%" alt="languages" />
