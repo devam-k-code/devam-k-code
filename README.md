@@ -11,8 +11,14 @@ skills. i am interested in finance, quantitative trading and astronomy.
 **core skills**
 
 <p>
-  <img src="https://cdn.simpleicons.org/python/white" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/swift/white" height="40" alt="Swift" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/c/white" height="40" alt="C" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/white" height="32" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swift/white" height="32" alt="Swift" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c/white" height="32" alt="C" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sqlite/white" height="40" alt="SQL" />
 </p>
+
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devam-k-code&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&height=400&days=15&custom_title=dev’s%20contribution%20graph" width="100%" alt="contribution graph" />
+
