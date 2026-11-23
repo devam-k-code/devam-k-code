@@ -1,7 +1,6 @@
 
 
-https://github.com/user-attachments/assets/2b940caa-7465-41d1-aede-b173b9161d78
-
+<img width="736" height="414" alt="IMG_8808" src="https://github.com/user-attachments/assets/680240c7-e481-4e14-a667-bdf2ec597cea" />
 --- 
 
 **about me**
